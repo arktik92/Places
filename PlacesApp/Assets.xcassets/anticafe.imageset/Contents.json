@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Anticafé_Lyon-2-e1571994136919-750x470.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
